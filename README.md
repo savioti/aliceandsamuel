@@ -5,21 +5,21 @@ It uses the free version of DOTween (http://dotween.demigiant.com/) which is not
 
 # CREDITS
 Game Design:
-Mirna Mendonça
+Mirna Mendonça (@mmartista)
 Ângelo Savioti (MSavioti)
 
 Story:
-Mirna Mendonça
+Mirna Mendonça (@mmartista)
 Ângelo Savioti (MSavioti)
 
 Graphics:
-Mirna Mendonça
+Mirna Mendonça (@mmartista)
 
 Programming:
 Ângelo Savioti (MSavioti)
 
 Voice Acting:
-Mirna Mendonça
+Mirna Mendonça (@mmartista)
 Ângelo Savioti (MSavioti)
 
 Sound Effect Editing:
