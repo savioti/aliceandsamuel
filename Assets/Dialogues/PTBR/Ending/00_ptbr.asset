@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5534f95b6690da04697a3e720d532f7c, type: 3}
+  m_Name: 00_ptbr
+  m_EditorClassIdentifier: 
+  description: Adios
+  messages:
+  - owner: Sister
+    message: obg
+    messageImg: {fileID: 21300000, guid: 054e20d92fdc22d4b9c94cf1b9b4f0d6, type: 3}
+  - owner: Sister
+    message: vo mimi
+    messageImg: {fileID: 21300000, guid: b9ab19f7c4a0f3043a2f732fd985aac9, type: 3}

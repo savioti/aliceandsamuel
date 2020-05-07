@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5534f95b6690da04697a3e720d532f7c, type: 3}
+  m_Name: 01_ptbr
+  m_EditorClassIdentifier: 
+  description: "Introdu\xE7\xE3o ao jogo"
+  messages:
+  - owner: Sister
+    message: 
+    messageImg: {fileID: 21300000, guid: a4dca33a70bd76c4bb7d30fa1e662065, type: 3}
+  - owner: Brother
+    message: 
+    messageImg: {fileID: 21300000, guid: 70b2a0312b5466444bb713db6465e6c0, type: 3}
+  - owner: Sister
+    message: 
+    messageImg: {fileID: 21300000, guid: 6feed3c0f916ed74a9530864994da857, type: 3}
+  - owner: Brother
+    message: 
+    messageImg: {fileID: 21300000, guid: 5d5a880e84a29dc46ac447fcb21a5c76, type: 3}
+  - owner: Sister
+    message: 
+    messageImg: {fileID: 21300000, guid: 8baec646455dfcb44adc7d795c20fb3b, type: 3}
+  - owner: Brother
+    message: 
+    messageImg: {fileID: 21300000, guid: c4ee974e7ed42cf48a4cfa775835fa94, type: 3}
+  - owner: Sister
+    message: 
+    messageImg: {fileID: 21300000, guid: 74f557fadbbf8864481fdfbd5fefb9c2, type: 3}
+  - owner: Brother
+    message: 
+    messageImg: {fileID: 21300000, guid: b3f624a0014c07a439c8a0e732b0d6a9, type: 3}
+  - owner: Brother
+    message: 
+    messageImg: {fileID: 21300000, guid: 541bb6fa00335294f9607afe90567613, type: 3}
+  - owner: Sister
+    message: 
+    messageImg: {fileID: 21300000, guid: 1bfbaab93b51ed048b65f4ee05544740, type: 3}
+  - owner: Brother
+    message: 
+    messageImg: {fileID: 21300000, guid: f52939c552738c1458c1a46606512145, type: 3}
+  - owner: Sister
+    message: 
+    messageImg: {fileID: 21300000, guid: 3c1c6640547ae51458796f9c6bb79e0c, type: 3}

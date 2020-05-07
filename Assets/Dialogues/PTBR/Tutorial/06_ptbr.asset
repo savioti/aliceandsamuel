@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5534f95b6690da04697a3e720d532f7c, type: 3}
+  m_Name: 06_ptbr
+  m_EditorClassIdentifier: 
+  description: 
+  messages:
+  - owner: Brother
+    message: ta tarde
+    messageImg: {fileID: 21300000, guid: d1abeed82d31da34e89d7a4c3902a20d, type: 3}
+  - owner: Sister
+    message: continua!
+    messageImg: {fileID: 21300000, guid: 5393d7c04e61bd14e84aeb4625d6dbdf, type: 3}
+  - owner: Brother
+    message: bora mimi
+    messageImg: {fileID: 21300000, guid: 8552e5929baac784f8ec9551dd50290a, type: 3}
+  - owner: Sister
+    message: "tem um tant\xE3o"
+    messageImg: {fileID: 21300000, guid: d6dae395183129c428241cc504c66bad, type: 3}
+  - owner: Brother
+    message: '...'
+    messageImg: {fileID: 21300000, guid: 2de24036f3c27c6449a4b29cfc38f97b, type: 3}
