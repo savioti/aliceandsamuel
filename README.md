@@ -1,4 +1,4 @@
-# aliceandsamuel
+# Alice & Samuel
 A short game made for the Weekly Game Jam - Week 147
 
 It uses the free version of DOTween (http://dotween.demigiant.com/) which is not included in this repo.
