@@ -1,5 +1,5 @@
 # Alice & Samuel
-A short game made for the Weekly Game Jam - Week 147
+A short game made for the Weekly Game Jam - Week 147. [Check it out!](https://msavioti.itch.io/aliceandsamuel)
 
 This game uses the free version of DOTween which is not included in this repo.
 
