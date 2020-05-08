@@ -1,41 +1,41 @@
 # Alice & Samuel
 A short game made for the Weekly Game Jam - Week 147
 
-It uses the free version of DOTween (http://dotween.demigiant.com/) which is not included in this repo.
+This game uses the free version of DOTween which is not included in this repo.
 
 # CREDITS
-Game Design:
-Mirna Mendonça (@mmartista)
-Ângelo Savioti (MSavioti)
+## Game Design:
+Mirna Mendonça [(@mmartista)](https://www.instagram.com/mmartista/)\
+Ângelo Savioti [(MSavioti)](https://linktr.ee/msavioti)
 
-Story:
-Mirna Mendonça (@mmartista)
-Ângelo Savioti (MSavioti)
+## Story:
+Mirna Mendonça [(@mmartista)](https://www.instagram.com/mmartista/)\
+Ângelo Savioti [(MSavioti)](https://linktr.ee/msavioti)
 
-Graphics:
-Mirna Mendonça (@mmartista)
+## Graphics:
+Mirna Mendonça [(@mmartista)](https://www.instagram.com/mmartista/)
 
-Programming:
-Ângelo Savioti (MSavioti)
+## Programming:
+Ângelo Savioti [(MSavioti)](https://linktr.ee/msavioti)
 
-Voice Acting:
-Mirna Mendonça (@mmartista)
-Ângelo Savioti (MSavioti)
+## Voice Acting:
+Mirna Mendonça [(@mmartista)](https://www.instagram.com/mmartista/)\
+Ângelo Savioti [(MSavioti)](https://linktr.ee/msavioti)
 
-Sound Effect Editing:
-Ângelo Savioti (MSavioti)
+## Sound Effect Editing:
+Ângelo Savioti [(MSavioti)](https://linktr.ee/msavioti)
 
-Additional Programming Libraries:
-DOTween (Free Version)
+## Additional Programming Libraries:
+[DOTween](http://dotween.demigiant.com/)
 
-Music:
+## Music:
 "Pop Buzz" by Dave Miles at https://www.zapsplat.com (CC0 1.0 Universal License)
 
 "Sappheiros - Embrace" is under a Creative Commons license (CC BY 3.0) Music promoted by BreakingCopyright: https://youtu.be/DzYp5uqixz0
 
 "Scott Buckley - Growing Up [Piano]" is under a Creative Commons license (CC-BY)Music promoted by BreakingCopyright: https://youtu.be/kQSoW1VnkH4
 
-Sound Effects:
+## Sound Effects:
 "Close book" by SoundsForHim at freesound.org - CC0 1.0 Universal (CC0 1.0) (Edited)
 
 "door open + creak - outside to inside" by Anthousai at freesound.org - CC0 1.0 Universal (CC0 1.0) (Edited)
