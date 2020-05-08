@@ -5,12 +5,12 @@ This game uses the free version of DOTween which is not included in this repo.
 
 # CREDITS
 ## Game Design:
-Mirna Mendonça [(@mmartista)](https://www.instagram.com/mmartista/)\
-Ângelo Savioti [(MSavioti)](https://linktr.ee/msavioti)
+Ângelo Savioti [(MSavioti)](https://linktr.ee/msavioti)\
+Mirna Mendonça [(@mmartista)](https://www.instagram.com/mmartista/)
 
 ## Story:
-Mirna Mendonça [(@mmartista)](https://www.instagram.com/mmartista/)\
-Ângelo Savioti [(MSavioti)](https://linktr.ee/msavioti)
+Ângelo Savioti [(MSavioti)](https://linktr.ee/msavioti)\
+Mirna Mendonça [(@mmartista)](https://www.instagram.com/mmartista/)
 
 ## Graphics:
 Mirna Mendonça [(@mmartista)](https://www.instagram.com/mmartista/)
@@ -19,8 +19,8 @@ Mirna Mendonça [(@mmartista)](https://www.instagram.com/mmartista/)
 Ângelo Savioti [(MSavioti)](https://linktr.ee/msavioti)
 
 ## Voice Acting:
-Mirna Mendonça [(@mmartista)](https://www.instagram.com/mmartista/)\
-Ângelo Savioti [(MSavioti)](https://linktr.ee/msavioti)
+Ângelo Savioti [(MSavioti)](https://linktr.ee/msavioti)\
+Mirna Mendonça [(@mmartista)](https://www.instagram.com/mmartista/)
 
 ## Sound Effect Editing:
 Ângelo Savioti [(MSavioti)](https://linktr.ee/msavioti)
