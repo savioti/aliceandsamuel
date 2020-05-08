@@ -1328,7 +1328,7 @@ MonoBehaviour:
     type: 3}
   blackScreen: {fileID: 164143787}
   summonInterval: 3.5
-  maxEnemyCount: 45
+  maxEnemyCount: 30
   enemiesOnScreen: 0
   maxEnemiesOnScreen: 3
   enemyKillCount: 0
